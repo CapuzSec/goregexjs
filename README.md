@@ -29,6 +29,7 @@ The tool expects a list of URLs to search in to be piped into it from the comman
 cat urls.txt | regexsearch -regex-file regexes.txt -show-chars 15 -threads 20
 ```
 
+![image](https://user-images.githubusercontent.com/56612613/219464167-7fc889d9-85a7-4b70-841c-eb792b3fb85e.png)
 
 
 
