@@ -2,13 +2,14 @@ This is a command line tool for searching regular expressions in a list of JS UR
 
 ## Install
 
+cd ```
 go build goregexjs.go
+```
 
 ## Usage:
 
 ```
 cat js-list.txt | goregexjs --regex-file regex.txt --show-chars 60 --threads 30
-
 ```
 
 ```
