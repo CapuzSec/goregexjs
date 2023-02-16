@@ -1,8 +1,7 @@
 This is a command line tool for searching regular expressions in a list of JS URLs. It takes a list of URLs as input from standard input and looks for regular expressions in your JS content.
 
 ## Install
-
-cd ```
+```
 go build goregexjs.go
 ```
 
